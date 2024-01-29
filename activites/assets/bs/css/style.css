@@ -1,0 +1,553 @@
+@font-face {
+    font-family: msr;
+    src: url("../font/Montserrat-Regular.ttf");
+}
+@font-face {
+    font-family: msl;
+    src: url("../font/Montserrat-Light.ttf");
+}
+@font-face {
+    font-family: ms;
+    src: url("../font/Montserrat-Bold.ttf");
+}
+#link {
+    margin-left: 300px;
+    margin-top: 7px;
+    font-family: msr;
+    
+}
+.foot2
+{
+    position: absolute;
+    display: inline-block;
+    width: 220px;    
+}
+.couleur
+{
+    color: grey;
+}
+#propos2
+{
+    margin-left: 670px;
+}
+#propos0
+{
+    margin-left: 15px;
+}
+#foot1
+{
+    position: relative;
+}
+#contact
+{
+    margin: 0 50px;
+}
+#rs{
+    margin-left: 100px;
+}
+#mess
+{
+    margin-right: 0;
+    margin-left: 200px;
+}
+#prop
+{
+    margin-left: 0;
+    margin-right: 65px;
+}
+#footer
+{
+    padding: 0%;
+}
+#phone
+{
+    padding-right: 7px;
+}
+#nav {
+    color: #337ab7;
+    height: 70px;
+    background-color: white;
+}
+#head
+{
+    height: 60px;
+    padding-left: 0%;
+    color: #337ab7;
+   
+}
+#nav2 {
+    margin-top: 25px;
+}
+
+#nav1 {
+    margin-top: 15px;
+}
+
+#nav {
+    margin-top: 15px;
+}
+.date
+{
+    color: grey;
+    margin-left: 5px;
+}
+#img {
+    background-position: center;
+    background-size: cover;
+    height: 300px;
+    width: 100%;
+}
+#email
+{
+    padding-right: 7px;
+}
+#article{
+    font-family: msl;
+}
+
+#img1
+{
+    width: 100%;
+    height: 400px;
+}
+#art {
+    background-color: white;
+    height: 290px;
+    display: block;
+    margin-top: 20px;
+    padding-top: 20px;
+}
+#divremove{
+    transition: 3s;
+}
+#navnav {
+    color: #337ab7;
+    background-color: white;
+   
+}
+#navnav link
+{
+    color: #c14d43;
+    font-family: msr;
+}
+#pagination{
+    margin-left: 350px;
+    margin-top: 30px;
+}
+#btn1 {
+    border: 2px solid #337ab7;
+    background-color: white;
+    width: 130px;
+    border-radius: 30px;
+    height: 35px;
+    font-family: msl;
+}
+#loko{
+    color: #c14d43;
+}
+.liste {
+    left: 0;
+    width: 100%;
+    position: absolute;
+    z-index: 9;
+}
+
+#btn2 {
+    border: 2px solid #337ab7;
+    background-color: #337ab7;
+    width: 130px;
+    border-radius: 30px;
+    height: 35px;
+    font-family: msl;
+    color: white;
+}
+
+#btn2:hover {
+    background-color: white;
+    color: #337ab7;
+    transition: 1s;
+}
+
+#art3 {
+    background-color: white;
+    display: block;
+    height: 290px;
+    padding-top: 20px;
+}
+
+#sary , #sary2 {
+    width: 100%;
+    margin-top: 10px;
+}
+
+#art2 {
+    margin-top: 40px;
+}
+
+#sura {
+    margin-left: 310px;
+}
+#conta
+{
+    float: right;
+    margin-left: 965px;
+}
+#cont
+{
+    margin-top: 60px;
+}
+#sura1 {
+    margin-top: 15px;
+}
+
+#connect {
+    margin-right: 20px;
+}
+i
+{
+    padding-right: 5px;
+}
+#fluid {
+    background-color: #d3d3d3;
+    height: max-content;
+    display: block;
+
+}
+
+body {
+    background-color: #d3d3d3;
+    font-family: ms;
+}
+
+#fluid h4 {
+    color: #337ab7;
+}
+
+#fluid2 {
+    background-color: black;
+    color: white;
+    height: 438px;
+    display: block;
+    padding-top: 15px;
+}
+#fluid2 a{
+    color: white;
+}
+
+li {
+    list-style: none;
+}
+
+textarea {
+    resize: none;
+}
+
+#btn {
+    width: 150px;
+    font-family: msr;
+}
+
+#fin {
+    text-align: center;
+    margin-top: 15px;
+    font-family: msl;
+}
+
+#farany {
+    background-color: #282828;
+    height: 50px;
+    color: white;
+    display: block;
+}
+
+#info {
+    color: #c14d43;
+}
+
+#logo span{
+    width: 300px;
+    height: 50px;
+}
+
+#logo a i {
+    height: 25px;
+    width: 10px;
+}
+#fb a{
+    margin-left: 5px;
+}
+#insta a{
+    margin-left: 3px;
+}
+#linkedin a{
+    margin-left: 3px;
+}
+#fb {
+    border: 1px solid  #3b5998;
+    border-radius: 50px;
+    background-color: #3b5998;
+    width: 20px;
+    display: inline-block;
+    align-items: center;
+    justify-content: center;
+    height: 20px;
+
+}
+#contflou{
+    position: relative;
+}
+#flou {
+    position: absolute;
+    z-index: 6;
+    background-color: rgba(0, 0, 0, 0.658);
+    width: 100%;
+    height: 400px;
+    color: white;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+#flou h1
+{
+    margin-top: 65px;
+}
+
+#flou h1 {
+    z-index: 7;
+}
+
+#cont {
+    margin-top: 15px;
+}
+
+#insta {
+    margin-left: 7px;
+    margin-right: 7px;
+    border: 1px solid  #3b5998;
+    border-radius: 50px;
+    background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%,#d6249f 60%,#285AEB 90%);
+    width: 20px;
+    display: inline-block;
+    align-items: center;
+    justify-content: center;
+    height: 20px;
+}
+
+#linkedin
+{
+    background-color: #0e76a8;
+    border: 1px solid  #3b5998;
+    border-radius: 50px;
+    width: 20px;
+    display: inline-block;
+    align-items: center;
+    justify-content: center;
+    height: 20px;
+}
+#propos
+{
+    margin-left: 320px;
+
+}
+
+#bouton {
+    background-color: white;
+    border: 2px solid #c14d43;
+    color: #c14d43;
+    width: 120px;
+    height: 35px;
+}
+#bouton2 {
+    background-color: white;
+    border: 2px solid #c14d43;
+    color: #c14d43;
+    width: 120px;
+    height: 35px;
+}
+#resp {
+    border: none;
+}
+#resp:hover{
+    background-color: white;
+}
+@media all and (max-width:575px)
+{
+    #pagination
+    {
+        margin-left: 100px;
+    }
+}
+@media all and (min-width:576px)and (max-width:767px)
+{
+    #pagination
+    {
+       margin-left: 200px;
+    }
+    #head
+    {
+        padding-left: 15px;
+        padding-top: 10px;
+    }
+    #resp
+    {
+        padding-top: 10px;
+        padding-bottom: 10px;
+        margin-bottom: 0%;
+    }
+    #propos
+    {
+        margin-top: 200px;
+        right: 525px;
+    }
+    #propos2
+    {
+        margin-top: 350px;
+        right: 525px;
+    }
+    #conta
+    {
+        margin-top: 450px;
+        right: 525px;   
+    }
+    #fluid2
+    {
+        height: 870px;
+        /* padding-left: 0;
+        padding-right: 0; */
+    }
+    #propos0
+    {
+        margin-left: 20px;
+    }
+    #art , #art3
+    {
+        height: 740px;
+    }
+
+}
+#paginss{
+    position: relative;
+}
+@media (max-width:1200px) {
+
+    #form input {
+        width: 250px;
+    }
+
+    #form textarea {
+        width: 250px;
+    }
+
+}
+@media all and (max-width:992px){
+    #link {
+        margin-left: 50px;
+    }
+    
+
+
+}
+ @media (min-width:992px ){
+    #link {
+        margin-left: 200px;
+    } 
+    #pagination
+    {
+        margin-left: 420px;
+    }
+
+} 
+@media (min-width:1200px ){
+    #link {
+        margin-left: 300px;
+    } 
+} 
+@media all and (min-width: 992px) and (max-width:1200px)
+{
+    #sary , #sary2
+    {
+        width: 100%;
+        /* height: 200px;  */
+        margin-top: 0%;
+        margin-bottom: 145px;
+        display: inline-block;
+    }
+    #art , #art3
+    {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        height: 350px;
+        padding-top: 0%;
+    } 
+    #pagination
+    {
+        margin-left: 300px;
+    }
+    #propos
+    {
+        margin-left: 240px;
+        /* margin-right: 65px; */
+    }
+    #propos2
+    {
+        margin-left: 500px;
+    }
+    #conta{
+        margin-left: 760px;
+    }
+    /* #mess{
+        margin-left: 0;
+    } */
+    #propos0
+    {
+        margin-left: 15px;
+    }
+
+
+} 
+@media all and (min-width:768px) and (max-width:991px)
+{
+    #sary , #sary2
+    {
+        height: 300px;
+    }
+    #art3 , #art
+    {
+        height: 650px;
+    }
+    #pagination
+    {
+        margin-left: 200px;
+    }
+    #propos
+    {
+        margin-left: 550px;
+        margin-top: 20px;
+    }
+    #propos2
+    {
+        margin-top: 200px;
+        right: 540px;
+        margin-left: 0;
+    }
+    #conta
+    {
+        margin-top: 200px;
+        margin-left: 0;
+        right: 20px;
+    }
+    #fluid2
+    {
+        height: 630px;
+        width: 100%;
+        padding: 0;
+    }
+    #propos0
+    {
+        margin: 20px;
+        width: 100%;
+    }
+}
